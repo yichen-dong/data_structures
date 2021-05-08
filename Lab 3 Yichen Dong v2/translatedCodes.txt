@@ -1,0 +1,105 @@
+Q - 1 X - 2 Z - 3 J - 5 V - 5 Y - 8 K - 10 D - 11 F - 12 P - 13 G - 14 U - 15 B - 16 I - 16 C - 17 H - 17 O - 18 A - 19 M - 19 L - 20 W - 21 N - 24 R - 25 T - 25 S - 35 E - 42 
+Z - 3 QX - 3 J - 5 V - 5 Y - 8 K - 10 D - 11 F - 12 P - 13 G - 14 U - 15 B - 16 I - 16 C - 17 H - 17 O - 18 A - 19 M - 19 L - 20 W - 21 N - 24 R - 25 T - 25 S - 35 E - 42 
+J - 5 V - 5 ZQX - 6 Y - 8 K - 10 D - 11 F - 12 P - 13 G - 14 U - 15 B - 16 I - 16 C - 17 H - 17 O - 18 A - 19 M - 19 L - 20 W - 21 N - 24 R - 25 T - 25 S - 35 E - 42 
+ZQX - 6 Y - 8 K - 10 JV - 10 D - 11 F - 12 P - 13 G - 14 U - 15 B - 16 I - 16 C - 17 H - 17 O - 18 A - 19 M - 19 L - 20 W - 21 N - 24 R - 25 T - 25 S - 35 E - 42 
+K - 10 JV - 10 D - 11 F - 12 P - 13 G - 14 ZQXY - 14 U - 15 B - 16 I - 16 C - 17 H - 17 O - 18 A - 19 M - 19 L - 20 W - 21 N - 24 R - 25 T - 25 S - 35 E - 42 
+D - 11 F - 12 P - 13 G - 14 ZQXY - 14 U - 15 B - 16 I - 16 C - 17 H - 17 O - 18 A - 19 M - 19 L - 20 KJV - 20 W - 21 N - 24 R - 25 T - 25 S - 35 E - 42 
+P - 13 G - 14 ZQXY - 14 U - 15 B - 16 I - 16 C - 17 H - 17 O - 18 A - 19 M - 19 L - 20 KJV - 20 W - 21 DF - 23 N - 24 R - 25 T - 25 S - 35 E - 42 
+ZQXY - 14 U - 15 B - 16 I - 16 C - 17 H - 17 O - 18 A - 19 M - 19 L - 20 KJV - 20 W - 21 DF - 23 N - 24 R - 25 T - 25 PG - 27 S - 35 E - 42 
+B - 16 I - 16 C - 17 H - 17 O - 18 A - 19 M - 19 L - 20 KJV - 20 W - 21 DF - 23 N - 24 R - 25 T - 25 PG - 27 ZQXYU - 29 S - 35 E - 42 
+C - 17 H - 17 O - 18 A - 19 M - 19 L - 20 KJV - 20 W - 21 DF - 23 N - 24 R - 25 T - 25 PG - 27 ZQXYU - 29 BI - 32 S - 35 E - 42 
+O - 18 A - 19 M - 19 L - 20 KJV - 20 W - 21 DF - 23 N - 24 R - 25 T - 25 PG - 27 ZQXYU - 29 BI - 32 CH - 34 S - 35 E - 42 
+M - 19 L - 20 KJV - 20 W - 21 DF - 23 N - 24 R - 25 T - 25 PG - 27 ZQXYU - 29 BI - 32 CH - 34 S - 35 OA - 37 E - 42 
+KJV - 20 W - 21 DF - 23 N - 24 R - 25 T - 25 PG - 27 ZQXYU - 29 BI - 32 CH - 34 S - 35 OA - 37 ML - 39 E - 42 
+DF - 23 N - 24 R - 25 T - 25 PG - 27 ZQXYU - 29 BI - 32 CH - 34 S - 35 OA - 37 ML - 39 KJVW - 41 E - 42 
+R - 25 T - 25 PG - 27 ZQXYU - 29 BI - 32 CH - 34 S - 35 OA - 37 ML - 39 KJVW - 41 E - 42 DFN - 47 
+PG - 27 ZQXYU - 29 BI - 32 CH - 34 S - 35 OA - 37 ML - 39 KJVW - 41 E - 42 DFN - 47 RT - 50 
+BI - 32 CH - 34 S - 35 OA - 37 ML - 39 KJVW - 41 E - 42 DFN - 47 RT - 50 PGZQXYU - 56 
+S - 35 OA - 37 ML - 39 KJVW - 41 E - 42 DFN - 47 RT - 50 PGZQXYU - 56 BICH - 66 
+ML - 39 KJVW - 41 E - 42 DFN - 47 RT - 50 PGZQXYU - 56 BICH - 66 SOA - 72 
+E - 42 DFN - 47 RT - 50 PGZQXYU - 56 BICH - 66 SOA - 72 MLKJVW - 80 
+RT - 50 PGZQXYU - 56 BICH - 66 SOA - 72 MLKJVW - 80 EDFN - 89 
+BICH - 66 SOA - 72 MLKJVW - 80 EDFN - 89 RTPGZQXYU - 106 
+MLKJVW - 80 EDFN - 89 RTPGZQXYU - 106 BICHSOA - 138 
+RTPGZQXYU - 106 BICHSOA - 138 MLKJVWEDFN - 169 
+MLKJVWEDFN - 169 RTPGZQXYUBICHSOA - 244 
+List of values and translated codes: 
+MLKJVWEDFNRTPGZQXYUBICHSOA with frequency: 413
+MLKJVWEDFN with frequency: 169
+MLKJVW with frequency: 80
+ML with frequency: 39
+M with frequency: 19
+L with frequency: 20
+KJVW with frequency: 41
+KJV with frequency: 20
+K with frequency: 10
+JV with frequency: 10
+J with frequency: 5
+V with frequency: 5
+W with frequency: 21
+EDFN with frequency: 89
+E with frequency: 42
+DFN with frequency: 47
+DF with frequency: 23
+D with frequency: 11
+F with frequency: 12
+N with frequency: 24
+RTPGZQXYUBICHSOA with frequency: 244
+RTPGZQXYU with frequency: 106
+RT with frequency: 50
+R with frequency: 25
+T with frequency: 25
+PGZQXYU with frequency: 56
+PG with frequency: 27
+P with frequency: 13
+G with frequency: 14
+ZQXYU with frequency: 29
+ZQXY with frequency: 14
+ZQX with frequency: 6
+Z with frequency: 3
+QX with frequency: 3
+Q with frequency: 1
+X with frequency: 2
+Y with frequency: 8
+U with frequency: 15
+BICHSOA with frequency: 138
+BICH with frequency: 66
+BI with frequency: 32
+B with frequency: 16
+I with frequency: 16
+CH with frequency: 34
+C with frequency: 17
+H with frequency: 17
+SOA with frequency: 72
+S with frequency: 35
+OA with frequency: 37
+O with frequency: 18
+A with frequency: 19
+
+Translated codes: 
+M - 0000
+L - 0001
+K - 00100
+J - 001010
+V - 001011
+W - 0011
+E - 010
+D - 01100
+F - 01101
+N - 0111
+R - 1000
+T - 1001
+P - 10100
+G - 10101
+Z - 1011000
+Q - 10110010
+X - 10110011
+Y - 101101
+U - 10111
+B - 11000
+I - 11001
+C - 11010
+H - 11011
+S - 1110
+O - 11110
+A - 11111
