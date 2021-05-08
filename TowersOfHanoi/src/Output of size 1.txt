@@ -1,0 +1,8 @@
+Running for size 1
+Recursive
+Move disk 1 from tower A to tower B
+Method time in ms: 0.007409
+
+Iterative
+Move disk 1 from tower A to tower B
+Method time in ms: 0.037556

@@ -1,0 +1,20 @@
+Running for size 3
+Recursive
+Move disk 1 from tower A to tower B
+Move disk 2 from tower A to tower C
+Move disk 1 from tower B to tower C
+Move disk 3 from tower A to tower B
+Move disk 1 from tower C to tower A
+Move disk 2 from tower C to tower B
+Move disk 1 from tower A to tower B
+Method time in ms: 0.011241
+
+Iterative
+Move disk 1 from tower A to tower B
+Move disk 2 from tower A to tower C
+Move disk 1 from tower B to tower C
+Move disk 3 from tower A to tower B
+Move disk 1 from tower C to tower A
+Move disk 2 from tower C to tower B
+Move disk 1 from tower A to tower B
+Method time in ms: 0.025038
